@@ -1,6 +1,6 @@
 # Word Vomit - Desktop Vocab Notifier
 
-A Python desktop application that displays vocabulary word notifications on Windows every hour. Each notification includes a random word and its definition from the Free Dictionary API.
+A Python desktop application that displays vocabulary word notifications on Windows every hour. Each notification includes a random word and its definition from the Free Dictionary API. This app was built with the help of a Cursor agent.
 
 ## Features
 
